@@ -1,2 +1,2 @@
-git init
-age
+age :14
+age : 15
